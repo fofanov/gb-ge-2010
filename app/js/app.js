@@ -4,8 +4,8 @@ var westminsterApp = angular.module('westminsterApp', [
     'westminsterControllers'
 ]);
 
-westminsterApp.config(['$routeProvider', '$locationProvider',
-    function($routeProvider, $locationProvider) {
+westminsterApp.config(['$routeProvider',
+    function($routeProvider) {
         $routeProvider.
             when('/map', {
                 templateUrl: 'app/partials/map.html',
@@ -18,5 +18,4 @@ westminsterApp.config(['$routeProvider', '$locationProvider',
                 redirectTo: '/map'
             });
 
-        $locationProvider.html5Mode(true);
         }]);
