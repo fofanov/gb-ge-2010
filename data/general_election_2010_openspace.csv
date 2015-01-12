@@ -1,0 +1,633 @@
+ADMIN_UNIT_ID,NAME,PARTY,MAJORITY,TURNOUT
+24881,Aberavon,Lab,35.66,60.95
+24852,Aberconwy,C,11,67
+33486,Aberdeen North,Lab,22.18,58.17
+33487,Aberdeen South,Lab,8.15,67.21
+32848,West Aberdeenshire and Kincardine,LD,8.15,68.36
+33927,Airdrie and Shotts,Lab,34.61,57.48
+25022,Aldershot,C,12.31,63.5
+24629,Aldridge-Brownhills,C,39.51,65.09
+24649,Altrincham and Sale West,C,23.47,69.32
+24660,Alyn and Deeside,Lab,7.31,65.52
+24766,Amber Valley,C,1.17,65.49
+33066,Angus,SNP,8.65,60.39
+44152,Arfon,PC,5.58,63.3
+32836,Argyll and Bute,LD,7.59,67.31
+25172,Arundel and South Downs,C,29.81,72.18
+24794,Ashfield,Lab,0.4,62.29
+25204,Ashford,C,31.34,67.9
+24709,Ashton-under-Lyne,Lab,23.66,56.88
+24870,Aylesbury,C,23.73,68.21
+43392,"Ayr, Carrick and Cumnock",Lab,21.60,62.59
+43397,Central Ayrshire,Lab,27,64
+34348,North Ayrshire and Arran,Lab,21.46,61.53
+24814,Banbury,C,32.41,64.66
+32849,Banff and Buchan,SNP,10.47,59.82
+25111,Barking,Lab,37,61
+24753,Barnsley Central,Lab,29.98,56.45
+24770,Barnsley East,Lab,28.89,56.09
+24862,Barrow and Furness,Lab Co-op,11.8,64.17
+25146,Basildon and Billericay,C,29.68,63.48
+25182,South Basildon and East Thurrock,C,12.9,62.29
+25021,Basingstoke,C,26,67
+24832,Bassetlaw,Lab,17,65
+24979,Bath,LD,25,72
+24778,Batley and Spen,Lab,9,67
+24991,Battersea,C,12.25,65.67
+24921,Beaconsfield,C,42,70
+25060,Beckenham,C,37.29,72.01
+36751,Bedford,C,3,65.85
+24909,Mid Bedfordshire,C,28,72
+24911,North East Bedfordshire,C,34.1,71.17
+24907,South West Bedfordshire,C,33,66
+25037,Bermondsey and Old Southwark,LD,19.1,57.52
+25200,Berwick-upon-Tweed,LD,7,66.96
+35027,"Berwickshire, Roxburgh and Selkirk",LD,11.58,66.39
+25070,Bethnal Green and Bow,Lab,23,62
+24913,Beverley and Holderness,C,24.41,66.82
+25159,Bexhill and Battle,C,23.6,68.92
+25108,Bexleyheath and Crayford,C,23.95,66.45
+24657,Birkenhead,Lab,44,56
+24689,"Birmingham, Edgbaston",Lab,3.06,60.62
+24665,"Birmingham, Erdington",Lab,9.22,53.53
+24726,"Birmingham, Hall Green",Lab,7.8,63.63
+24695,"Birmingham, Hodge Hill",Lab,24.26,56.6
+24693,"Birmingham, Ladywood",Lab,28.2,48.66
+24691,"Birmingham, Northfield",Lab,6.65,58.61
+24666,"Birmingham, Perry Barr",Lab,28.32,58.97
+24692,"Birmingham, Selly Oak",Lab,7.48,62.25
+24698,"Birmingham, Yardley",LD,7.35,56.48
+24975,Bishop Auckland,Lab,12.68,60.17
+24782,Blackburn,Lab,21.66,62.9
+24712,Blackley and Broughton,Lab,35.97,49.22
+24828,Blackpool North and Cleveleys,C,5.3,61.61
+24811,Blackpool South,Lab,5.26,55.84
+24868,Blaenau Gwent,Lab,32.46,61.78
+25136,Blaydon,Lab,20.3,66.24
+25165,Blyth Valley,Lab,17.29,60.01
+38129,Bognor Regis and Littlehampton,C,27.88,66.16
+24797,Bolsover,Lab,25.42,60.45
+24738,Bolton North East,Lab,9.44,64.32
+24716,Bolton South East,Lab,22,57
+24739,Bolton West,Lab,0,67
+24682,Bootle,Lab,51.31,57.79
+38138,Boston and Skegness,C,29,61
+24745,Bosworth,C,9.27,70.22
+25194,Bournemouth East,C,17.55,61.9
+25184,Bournemouth West,C,13.4,58.06
+37524,Bracknell,C,30.12,67.82
+24823,Bradford East,LD,0.9,62.13
+24806,Bradford South,Lab,12,60
+24807,Bradford West,Lab,14.2,64.9
+25162,Braintree,C,33,69
+24721,Brecon and Radnorshire,LD,9.65,72.49
+24999,Brent Central,LD,2.97,61.19
+24967,Brent North,Lab,15.35,62.34
+24960,Brentford and Isleworth,C,3.64,64.35
+25114,Brentwood and Ongar,C,33.45,69.09
+24925,Bridgend,Lab,5.9,65.33
+25051,Bridgwater and West Somerset,C,16.97,71.18
+24900,Brigg and Goole,C,11.73,65.15
+25176,"Brighton, Kemptown",C,3.11,64.69
+25175,"Brighton, Pavilion",Green,2.42,70.04
+24950,Bristol East,Lab,8.27,64.82
+24930,Bristol North West,C,6.5,68.51
+24978,Bristol South,Lab,9.79,61.56
+24951,Bristol West,LD,20.54,66.9
+44179,Broadland,C,14,72
+25084,Bromley and Chislehurst,C,31.56,67.31
+24725,Bromsgrove,C,21.9,70.64
+25076,Broxbourne,C,41.18,63.95
+24793,Broxtowe,C,0.74,73.19
+24845,Buckingham,Speaker,25.92,64.45
+24808,Burnley,LD,4,63
+24623,Burton,C,13,67
+24737,Bury North,C,4.99,67.35
+24715,Bury South,Lab,7,66
+25163,Bury St. Edmunds,C,21.08,69.3
+24883,Caerphilly,Lab,27.58,62.75
+31937,"Caithness, Sutherland and Easter Ross",LD,16.78,60.88
+24779,Calder Valley,C,12.42,67.33
+25066,Camberwell and Peckham,Lab,37,59
+25228,Camborne and Redruth,C,0,66
+25099,Cambridge,LD,13.55,65.04
+25007,North East Cambridgeshire,C,31.43,71.38
+36926,North West Cambridgeshire,C,29,66
+24971,South Cambridgeshire,C,13.27,74.76
+25100,South East Cambridgeshire,C,10,69
+24622,Cannock Chase,C,7.01,61.15
+25214,Canterbury,C,12.29,64.07
+24928,Cardiff Central,LD,13,59
+24927,Cardiff North,C,0.41,72.66
+24929,Cardiff South and Penarth,Lab Co-op,10.62,60.2
+24926,Cardiff West,Lab,11.6,65.23
+44155,Carlisle,C,2.02,64.66
+24854,Carmarthen East and Dinefwr,PC,9.16,72.56
+36747,Carmarthen West and South Pembrokeshire,C,8.45,70.42
+25029,Carshalton and Wallington,LD,11.46,69.03
+25181,Castle Point,C,16.95,66.92
+24853,Ceredigion,LD,21.76,64.8
+36731,Charnwood,C,28.07,71.89
+37522,Chatham and Aylesford,C,13.85,61.59
+24645,Cheadle,LD,6.23,72.47
+44180,Chelmsford,C,9,70
+24992,Chelsea and Fulham,C,41.96,60.12
+24856,Cheltenham,LD,9.32,66.82
+24904,Chesham and Amersham,C,31.86,74.57
+24634,City of Chester,C,5.52,67.94
+24749,Chesterfield,Lab,1.2,63.77
+25129,Chichester,C,27.96,69.71
+25073,Chingford and Woodford Green,C,30,66
+25018,Chippenham,LD,4.72,72.65
+25004,Chipping Barnet,C,23.57,65.05
+24758,Chorley,Lab,5.21,70.15
+25185,Christchurch,C,31.18,71.76
+25040,Cities of London and Westminster,C,30,56
+25220,Clacton,C,27.99,64.18
+24898,Cleethorpes,C,9.56,64.04
+24686,Clwyd South,Lab,8,65
+38782,Clwyd West,C,16.84,65.81
+33924,"Coatbridge, Chryston and Bellshill",Lab,50,59
+44169,Colchester,LD,15.13,62.3
+24733,Colne Valley,C,8.75,69.07
+24614,Congleton,C,14,69
+24914,Copeland,Lab,8.96,67.60
+24894,Corby,C,3.49,69.26
+25152,North Cornwall,LD,6,68
+25208,South East Cornwall,C,6,69
+24843,The Cotswolds,C,23.46,71.46
+24744,Coventry North East,Lab,27.14,59.4
+24731,Coventry North West,Lab,13.51,63.89
+24730,Coventry South,Lab,8.37,62.35
+25104,Crawley,C,12,65
+24603,Crewe and Nantwich,C,12,66
+25061,Croydon Central,C,5.97,63.08
+25030,Croydon North,Lab,31.9,60.65
+25028,Croydon South,C,28.08,69.28
+33651,"Cumbernauld, Kilsyth and Kirkintilloch East",Lab,33.43,64.26
+24867,Cynon Valley,Lab,32.19,58.98
+25110,Dagenham and Rainham,Lab,5.95,63.4
+24974,Darlington,Lab,7.9,61.85
+25107,Dartford,C,21.22,65.66
+24788,Daventry,C,37.06,72.46
+24685,Delyn,Lab,6.14,69.17
+24668,Denton and Reddish,Lab,26.12,58.11
+24746,Derby North,Lab,1.36,63.06
+24747,Derby South,Lab,14.86,58
+24667,Derbyshire Dales,C,29.64,73.82
+44172,Mid Derbyshire,C,24,71
+24748,North East Derbyshire,Lab,5.2,65.85
+24701,South Derbyshire,C,14.14,71.4
+24932,Devizes,C,28.06,68.78
+44162,Central Devon,C,17.13,75.66
+25168,East Devon,C,17.17,72.62
+25050,North Devon,LD,11.34,68.88
+25212,South West Devon,C,31.84,71.17
+25079,Torridge and West Devon,C,5.35,72.16
+24732,Dewsbury,C,2.83,68.45
+24800,Don Valley,Lab,8.28,59.32
+24819,Doncaster Central,Lab,14.92,55.51
+24850,Doncaster North,Lab,26,57
+37526,Mid Dorset and North Poole,LD,0.57,64.4
+25127,North Dorset,C,14,73
+25202,South Dorset,C,14.79,68.14
+25169,West Dorset,C,6.84,74.59
+25224,Dover,C,10.47,70.14
+24661,Dudley North,Lab,1.68,63.45
+24662,Dudley South,C,10.1,63.01
+25031,Dulwich and West Norwood,Lab,19.42,66.21
+36336,Dumfries and Galloway,Lab,14,70
+35754,"Dumfriesshire, Clydesdale and Tweeddale",C,9,69
+43161,East Dunbartonshire,LD,4.55,75.16
+33649,West Dunbartonshire,Lab,41.19,63.96
+33065,Dundee East,SNP,4.49,61.96
+33064,Dundee West,Lab,19.6,58.92
+33657,Dunfermline and West Fife,Lab,11.18,66.35
+25102,City of Durham,Lab,6.63,67.2
+25124,North Durham,Lab,29.48,60.65
+25078,North West Durham,Lab,17,62
+24785,Dwyfor Meirionnydd,PC,22.03,63.73
+24965,Ealing Central and Acton,C,8,74
+24966,Ealing North,Lab,19.51,70.22
+24937,"Ealing, Southall",Lab,21.73,70.81
+25101,Easington,Lab,43,55
+25090,East Ham,Lab,55.24,55.55
+34350,"East Kilbride, Strathaven and Lesmahagow",Lab,28.47,66.57
+33670,East Lothian,Lab,24.93,66.94
+25189,Eastbourne,LD,6.59,66.96
+25142,Eastleigh,LD,7.2,69.28
+24617,Eddisbury,C,29.19,69.54
+33667,Edinburgh East,Lab,23.03,65.42
+33662,Edinburgh North and Leith,Lab,3.64,68.43
+33932,Edinburgh South,Lab,0.72,73.8
+33930,Edinburgh South West,Lab,18.58,68.51
+33655,Edinburgh West,LD,8.19,71.28
+25075,Edmonton,Lab Co-op,23.81,63.19
+24659,Ellesmere Port and Neston,Lab,9.79,70.1
+24772,Elmet and Rothwell,C,8.1,71.78
+25086,Eltham,Lab,3.96,67.05
+25045,Enfield North,C,3.81,67.09
+25046,"Enfield, Southgate",C,17,69
+25097,Epping Forest,C,32,65
+25027,Epsom and Ewell,C,29.36,70.36
+24765,Erewash,C,5.25,68.4
+25109,Erith and Thamesmead,Lab,13.43,60.75
+25026,Esher and Walton,C,34.09,72.4
+25192,Exeter,Lab,5.21,67.72
+33652,Falkirk,Lab,15.45,62.02
+25157,Fareham,C,31.45,71.62
+25179,Faversham and Mid Kent,C,37,68
+24962,Feltham and Heston,Lab Co-op,9.6,59.87
+33333,North East Fife,LD,22.58,63.62
+44170,Filton and Bradley Stoke,C,14.31,70.00
+25001,Finchley and Golders Green,C,12.32,61.09
+25209,Folkestone and Hythe,C,19.17,67.69
+24855,Forest of Dean,C,22.69,71.27
+24810,Fylde,C,30.18,66.28
+24874,Gainsborough,C,21,68
+24633,Garston and Halewood,Lab,39.41,60.05
+25149,Gateshead,Lab,32.8,57.54
+24831,Gedling,Lab,3.86,68.27
+25190,Gillingham and Rainham,C,18.55,66.02
+33920,Glasgow Central,Lab,35,51
+33922,Glasgow East,Lab,36.81,52.29
+33912,Glasgow North,Lab,13.16,57.59
+33919,Glasgow North East,Lab,54.21,49.13
+33913,Glasgow North West,Lab,38.25,58.36
+33918,Glasgow South,Lab,32,62
+33917,Glasgow South West,Lab Co-op,46,55
+33483,Glenrothes,Lab,40.61,59.65
+24863,Gloucester,C,4.77,64
+33335,Gordon,LD,13.83,66.43
+25187,Gosport,C,30.71,64.55
+24878,Gower,Lab,6.44,67.54
+24895,Grantham and Stamford,C,28,68
+25145,Gravesham,C,19.69,67.39
+25010,Great Grimsby,Lab,2,54
+25230,Great Yarmouth,C,9.93,61.23
+25087,Greenwich and Woolwich,Lab,24.65,62.89
+25056,Guildford,C,14,72.09
+25042,Hackney North and Stoke Newington,Lab,31.11,62.93
+25071,Hackney South and Shoreditch,Lab,33.34,58.86
+24663,Halesowen and Rowley Regis,C,4.6,69.05
+24780,Halifax,Lab,3.38,61.89
+24912,Haltemprice and Howden,C,23.81,69.23
+24632,Halton,Lab,37.51,60.01
+24993,Hammersmith,Lab,7.48,65.59
+25054,East Hampshire,C,26.3,71.03
+37258,North East Hampshire,C,35.13,73.33
+25020,North West Hampshire,C,34.87,70.08
+24995,Hampstead and Kilburn,Lab,0.08,66.27
+24846,Harborough,C,17.83,70.52
+25098,Harlow,C,11.22,65.06
+37262,Harrogate and Knaresborough,C,2,71
+24968,Harrow East,C,7.09,70.03
+24939,Harrow West,Lab Co-op,6.82,64.49
+25047,Hartlepool,Lab,14.41,55.49
+44167,Harwich and North Essex,C,23.36,69.26
+25203,Hastings and Rye,C,4,63.86
+25171,Havant,C,28,63
+24938,Hayes and Harlington,Lab,25.39,60.71
+24644,Hazel Grove,LD,15.18,66.56
+24892,Hemel Hempstead,C,27,68
+24771,Hemsworth,Lab,22.45,60.43
+25003,Hendon,C,0.23,58.76
+24890,Henley,C,30.99,71.36
+24812,Hereford and South Herefordshire,C,5.13,67.73
+24722,North Herefordshire,C,21,72
+25077,Hertford and Stortford,C,27.88,70.58
+24970,North East Hertfordshire,C,30.13,69.84
+24905,South West Hertfordshire,C,26.29,72.53
+24969,Hertsmere,C,37.24,64.70
+25126,Hexham,C,13.31,70.85
+24736,Heywood and Middleton,Lab,12.95,57.53
+24625,High Peak,C,9.29,69.94
+36734,Hitchin and Harpenden,C,28,74
+25039,Holborn and St. Pancras,Lab,18.19,62.91
+25112,Hornchurch and Upminster,C,30.66,68.02
+25044,Hornsey and Wood Green,LD,12.49,68.87
+25130,Horsham,C,21,73
+25122,Houghton and Sunderland South,Lab,28.91,55.32
+25174,Hove,C,3.75,69.47
+24755,Huddersfield,Lab,11.04,61.11
+24945,Kingston upon Hull East,Lab,25.15,50.62
+24946,Kingston upon Hull North,Lab,2,52
+24923,Kingston upon Hull West and Hessle,Lab,18.23,45.65
+24944,Huntingdon,C,19.94,64.94
+24781,Hyndburn,Lab,7,63
+25092,Ilford North,C,11,65
+25094,Ilford South,Lab Co-op,22.05,68.03
+33646,Inverclyde,Lab,38,63
+32444,"Inverness, Nairn, Badenoch and Strathspey",LD,19,65
+25222,Ipswich,C,4.43,59.9
+25195,Isle of Wight,C,14.98,63.9
+25043,Islington North,Lab,27.83,65.41
+25038,Islington South and Finsbury,Lab,8.19,64.38
+24884,Islwyn,Lab Co-op,35.21,63.27
+25148,Jarrow,Lab,33.28,60.27
+24825,Keighley,C,6.16,72.38
+44159,Kenilworth and Southam,C,26,81
+44153,Kensington,C,24.51,53.29
+24858,Kettering,C,19,69
+34349,Kilmarnock and Loudoun,Lab Co-op,26.59,62.8
+24983,Kingston and Surbiton,LD,13.24,70.41
+24952,Kingswood,C,5.1,72.19
+33482,Kirkcaldy and Cowdenbeath,Lab,50.24,62.18
+24680,Knowsley,Lab,58,56
+34351,Lanark and Hamilton East,Lab,28.95,62.26
+24718,West Lancashire,Lab,8.96,63.8
+24837,Lancaster and Fleetwood,C,0.78,61.08
+24804,Leeds Central,Lab,28,58
+24803,Leeds East,Lab,27.22,58.11
+24820,Leeds North East,Lab,9.56,70.01
+24821,Leeds North West,LD,20.93,66.49
+24805,Leeds West,Lab,18.1,57.45
+24830,Leicester East,Lab,29.34,65.76
+24829,Leicester South,Lab,18.69,61.06
+24815,Leicester West,Lab,11.21,55.19
+24764,North West Leicestershire,C,14,73
+24789,South Leicestershire,C,28,71
+24675,Leigh,Lab,27,58
+25158,Lewes,LD,15.27,72.9
+25064,"Lewisham, Deptford",Lab,30.32,61.47
+25063,Lewisham East,Lab,15,63
+25065,Lewisham West and Penge,Lab,12.94,65.24
+25072,Leyton and Wanstead,Lab,16,63
+24610,Lichfield,C,34,71
+24897,Lincoln,C,2.31,62.17
+43160,Linlithgow and East Falkirk,Lab,24,64
+24656,"Liverpool, Riverside",Lab,36.53,52.05
+24681,"Liverpool, Walton",Lab,57.72,54.84
+24654,"Liverpool, Wavertree",Lab Co-op,18.9,60.64
+24678,"Liverpool, West Derby",Lab Co-op,51.61,56.73
+33929,Livingston,Lab,22.52,63.1
+24901,Llanelli,Lab,12.55,67.33
+24790,Loughborough,C,7.09,68.18
+25009,Louth and Horncastle,C,27.47,65.03
+24621,Ludlow,C,20.01,73.14
+24908,Luton North,Lab,17.48,66.12
+24922,Luton South,Lab Co-op,6,70
+24626,Macclesfield,C,23.89,68.18
+24934,Maidenhead,C,31.22,73.75
+25177,Maidstone and The Weald,C,12.04,68.87
+24717,Makerfield,Lab,29,59
+25198,Maldon,C,40.52,69.55
+24669,Manchester Central,Lab,26.15,44.31
+24670,"Manchester, Gorton",Lab,17,50
+24671,"Manchester, Withington",LD,4.21,60.55
+24796,Mansfield,Lab,12.42,60.44
+44157,Meon Valley,C,24,73
+24729,Meriden,C,31.16,62.23
+24866,Merthyr Tydfil and Rhymney,Lab,12.64,58.62
+25014,Middlesbrough,Lab,26,51
+25011,Middlesbrough South and East Cleveland,Lab,3.63,63.6
+33931,Midlothian,Lab,26.37,63.93
+24872,Milton Keynes North,C,16.63,62.78
+24871,Milton Keynes South,C,9.4,61.15
+24987,Mitcham and Morden,Lab,31.2,66.42
+25057,Mole Valley,C,28.81,74.81
+24841,Monmouth,C,22.41,74.11
+24687,Montgomeryshire,C,3.5,69.39
+32561,Moray,SNP,13.63,62.2
+24861,Morecambe and Lunesdale,C,1.99,62.34
+24776,Morley and Outwood,Lab Co-op,2,66
+33925,Motherwell and Wishaw,Lab,42.96,58.46
+32681,Na h-Eileanan an Iar,SNP,12.81,66.1
+24865,Neath,Lab,26.33,64.91
+37257,New Forest East,C,22.6,68.68
+25154,New Forest West,C,35.52,69.62
+24848,Newark,C,31.53,71.36
+24954,Newbury,C,20.9,70.24
+24607,Newcastle-under-Lyme,Lab,3.59,62.21
+25151,Newcastle upon Tyne Central,Lab,21.86,56.45
+25150,Newcastle upon Tyne East,Lab,11.77,58.68
+25167,Newcastle upon Tyne North,Lab,7.77,65.48
+24918,Newport East,Lab,5,63
+24917,Newport West,Lab,8.92,63.95
+44163,Newton Abbot,C,1.08,69.63
+25207,Mid Norfolk,C,27.29,68.36
+25199,North Norfolk,LD,23,73
+25119,North West Norfolk,C,30.98,65.29
+25211,South Norfolk,C,20,72
+25118,South West Norfolk,C,27,66
+24774,"Normanton, Pontefract and Castleford",Lab,23.74,56.23
+24859,Northampton North,C,4.81,62.7
+24857,Northampton South,C,15.4,58.24
+44166,South Northamptonshire,C,34.19,73.01
+25226,Norwich North,C,9.16,65.24
+25223,Norwich South,LD,0.65,64.56
+24817,Nottingham East,Lab Co-op,21.05,56.4
+44181,Nottingham North,Lab,23.74,54.21
+24816,Nottingham South,Lab,4.34,60.48
+24763,Nuneaton,C,4.63,65.81
+33479,Ochil and South Perthshire,Lab,10.28,67.19
+24915,Ogmore,Lab,38,62
+25088,Old Bexley and Sidcup,C,34.86,69.28
+24734,Oldham East and Saddleworth,Lab,0.23,61.18
+24710,Oldham West and Royton,Lab,21.79,59.06
+32565,Orkney and Shetland,LD,51.32,58.47
+25106,Orpington,C,35,72
+24889,Oxford East,Lab,8.87,63.08
+24888,Oxford West and Abingdon,C,0.31,65.33
+33914,Paisley and Renfrewshire North,Lab,34.96,68.61
+33910,Paisley and Renfrewshire South,Lab,41.54,65.36
+24826,Pendle,C,8,68
+24706,Penistone and Stocksbridge,Lab,6.55,67.91
+44154,Penrith and The Border,C,25,70
+43159,Perth and North Perthshire,SNP,9,67
+24972,Peterborough,C,11,64
+44164,"Plymouth, Moor View",Lab,3.82,61.74
+25217,"Plymouth, Sutton and Devonport",C,2.62,61.79
+24916,Pontypridd,Lab,8,63
+25193,Poole,C,15.9,73.36
+25068,Poplar and Limehouse,Lab,12.91,62.3
+25170,Portsmouth North,C,16.52,62.73
+25186,Portsmouth South,LD,12.6,58.75
+44151,Preseli Pembrokeshire,C,11.63,68.97
+24809,Preston,Lab Co-op,23.79,52.04
+24822,Pudsey,C,3.38,70.87
+24990,Putney,C,24.65,64.36
+25183,Rayleigh and Wickford,C,42.68,68.96
+24957,Reading East,C,15.21,66.72
+24956,Reading West,C,12.63,65.91
+25012,Redcar,LD,12.43,62.51
+36914,Redditch,C,13.22,64.21
+25058,Reigate,C,27,70
+33915,East Renfrewshire,Lab,20,77
+24882,Rhondda,Lab,37,60
+24827,Ribble Valley,C,28.25,66.98
+24963,Richmond Park,C,6.9,76.91
+24875,Richmond (Yorks),C,43.69,67.2
+24735,Rochdale,Lab,2,58
+25180,Rochester and Strood,C,20.75,64.93
+25196,Rochford and Southend East,C,27,59
+25113,Romford,C,36,65
+25141,Romsey and Southampton North,C,8.49,73.15
+32201,"Ross, Skye and Lochaber",LD,38,67
+24756,Rossendale and Darwen,C,9.53,64.56
+24798,Rother Valley,Lab,12.55,64.19
+24768,Rotherham,Lab,28,59
+24742,Rugby,C,12.64,68.88
+24941,"Ruislip, Northwood and Pinner",C,38,71
+24980,Runnymede and Weybridge,C,34.29,66.35
+24792,Rushcliffe,C,29.45,73.59
+33921,Rutherglen and Hamilton West,Lab Co-op,44.7,61.49
+24847,Rutland and Melton,C,25.35,71.54
+25115,Saffron Walden,C,28.03,71.51
+24713,Salford and Eccles,Lab,13.78,55.02
+25080,Salisbury,C,12.31,71.9
+24924,Scarborough and Whitby,C,17,65
+37530,Scunthorpe,Lab,6.88,58.70
+25015,Sedgefield,Lab,21.62,62.14
+24719,Sefton Central,Lab,7.97,71.78
+24802,Selby and Ainsty,C,23.71,71.07
+25105,Sevenoaks,C,35.45,71
+24752,"Sheffield, Brightside and Hillsborough",Lab,35.03,57.07
+24751,Sheffield Central,Lab,0.4,59.65
+24703,"Sheffield, Hallam",LD,30,74
+24750,"Sheffield, Heeley",Lab,14.21,62.05
+24767,Sheffield South East,Lab,25,62
+24795,Sherwood,C,0.44,68.91
+24824,Shipley,C,20,73
+24627,Shrewsbury and Atcham,C,14.98,70.32
+24604,North Shropshire,C,30.52,65.72
+25205,Sittingbourne and Sheppey,C,25.49,64.47
+24836,Skipton and Ripon,C,18.18,70.72
+24896,Sleaford and North Hykeham,C,33,70
+24935,Slough,Lab,11.57,61.95
+24727,Solihull,LD,0,71
+24948,North Somerset,C,13.57,74.95
+24953,North East Somerset,C,9.6,75.96
+25053,Somerton and Frome,LD,3.00,74.33
+25008,South Holland and The Deepings,C,44,66
+24783,South Ribble,C,10.79,67.87
+25147,South Shields,Lab,30.42,57.7
+25156,"Southampton, Itchen",Lab,0,60
+25155,"Southampton, Test",Lab,5.46,61.43
+25197,Southend West,C,17,66
+24759,Southport,LD,13.77,65.11
+24959,Spelthorne,C,21,67
+24943,St. Albans,C,4.36,75.42
+25215,St. Austell and Newquay,LD,2.78,61.87
+24676,St. Helens North,Lab,29,59
+24677,St. Helens South and Whiston,Lab,31,59
+25227,St. Ives,LD,4,69
+24605,Stafford,C,10.87,71.17
+24613,Staffordshire Moorlands,C,15.27,70.59
+24628,South Staffordshire,C,32.89,68.73
+24708,Stalybridge and Hyde,Lab,6.71,59.21
+25006,Stevenage,C,8.01,64.77
+33331,Stirling,Lab,17.85,70.81
+24646,Stockport,Lab,17.34,61.59
+25013,Stockton North,Lab,16.9,58.63
+24973,Stockton South,C,0.66,67.45
+24612,Stoke-on-Trent Central,Lab,17,53
+24608,Stoke-on-Trent North,Lab,20,56
+24611,Stoke-on-Trent South,Lab,10.36,58.58
+36931,Stone,C,28,71
+24688,Stourbridge,C,11,68
+24762,Stratford-on-Avon,C,22,73
+25033,Streatham,Lab,6.96,62.84
+24650,Stretford and Urmston,Lab,19.9,64.07
+24885,Stroud,C,2.24,74.03
+25210,Central Suffolk and North Ipswich,C,25.81,70.43
+42473,Suffolk Coastal,C,16.63,71.58
+24601,South Suffolk,C,16.9,70.92
+36736,West Suffolk,C,27.14,64.62
+25135,Sunderland Central,Lab,16,57
+25059,East Surrey,C,31,71
+24981,Surrey Heath,C,31.81,69.95
+25055,South West Surrey,C,29,73
+25131,Mid Sussex,C,13.25,72.37
+24988,Sutton and Cheam,LD,3.31,72.77
+24641,Sutton Coldfield,C,33.61,67.91
+24879,Swansea East,Lab,33,55
+24902,Swansea West,Lab,1.42,58.03
+38140,North Swindon,C,14.04,64.16
+24931,South Swindon,C,7.52,64.88
+24642,Tamworth,C,13.13,63.82
+24615,Tatton,C,32.03,68.86
+25103,Taunton Deane,LD,6.87,70.45
+36741,Telford,Lab,2.37,63.49
+36743,Tewkesbury,C,11.69,70.39
+25219,North Thanet,C,31.21,62.43
+25225,South Thanet,C,16.58,64.16
+24860,Thirsk and Malton,C,28.5,50
+24920,Thornbury and Yate,LD,14.76,75.24
+25144,Thurrock,C,0.2,49.6
+43526,Tiverton and Honiton,C,16.98,71.47
+25143,Tonbridge and Malling,C,35.43,71.48
+25034,Tooting,Lab,4.98,68.6
+25213,Torbay,LD,8.29,64.62
+24869,Torfaen,Lab,24.72,61.53
+37540,Totnes,C,10,70
+25041,Tottenham,Lab,41.61,58.18
+44161,Truro and Falmouth,C,0.89,69.08
+25160,Tunbridge Wells,C,30.95,69.85
+24985,Twickenham,LD,20.33,74.78
+25164,Tynemouth,Lab,10.9,69.59
+25166,North Tyneside,Lab,28,60
+24936,Uxbridge and South Ruislip,C,24.88,63.34
+24784,Vale of Clwyd,Lab,7.06,63.7
+24947,Vale of Glamorgan,C,8.85,69.27
+25036,Vauxhall,Lab,24.66,57.73
+24754,Wakefield,Lab,3.63,62.74
+24683,Wallasey,Lab,20.42,63.19
+24640,Walsall North,Lab,2.74,55.52
+24600,Walsall South,Lab,4,63
+43746,Walthamstow,Lab,23.12,63.43
+25191,Wansbeck,Lab,18.37,60.71
+24887,Wantage,C,24,70
+24694,Warley,Lab,28.11,60.64
+24651,Warrington North,Lab,15,62
+24631,Warrington South,C,2.83,68.16
+24741,Warwick and Leamington,C,7.16,84.49
+24700,North Warwickshire,C,0.11,67.38
+44158,Washington and Sunderland West,Lab,30.69,54.18
+24942,Watford,C,2.58,68.33
+25229,Waveney,C,2,65
+25133,Wealden,C,31.25,71.82
+38407,Weaver Vale,C,2.25,66.11
+24893,Wellingborough,C,22.82,67.22
+25052,Wells,LD,1.43,70.33
+25005,Welwyn Hatfield,C,35.58,67.96
+24769,Wentworth and Dearne,Lab,33.06,58.01
+24664,West Bromwich East,Lab,17.64,60.41
+24639,West Bromwich West,Lab,15.62,55.64
+25067,West Ham,Lab,47.99,55.03
+24997,Westminster North,Lab,5.37,59.33
+24876,Westmorland and Lonsdale,LD,24,76
+25017,Weston-Super-Mare,C,5.1,67.17
+24740,Wigan,Lab,23.76,58.41
+24903,North Wiltshire,C,15.37,73.44
+44165,South West Wiltshire,C,21.15,68.42
+24986,Wimbledon,C,24.07,72.11
+25128,Winchester,C,5.45,75.81
+24958,Windsor,C,38.42,71.34
+24658,Wirral South,Lab,1.33,71.13
+24684,Wirral West,C,6.19,71.52
+44168,Witham,C,32.45,70.16
+24842,Witney,C,39.36,73.34
+25024,Woking,C,12.9,71.49
+24933,Wokingham,C,25,72
+24636,Wolverhampton North East,Lab,7,59
+24635,Wolverhampton South East,Lab,19,57.41
+24637,Wolverhampton South West,C,2,68
+24786,Worcester,C,6.09,67.24
+24760,Mid Worcestershire,C,31.15,70.57
+24813,West Worcestershire,C,12.49,73.83
+24977,Workington,Lab,11.65,65.86
+24714,Worsley and Eccles South,Lab,10.4,57.54
+25173,East Worthing and Shoreham,C,22.95,65.4
+25188,Worthing West,C,23.88,64.68
+24620,The Wrekin,C,20.56,70.13
+24619,Wrexham,Lab,11,65
+24891,Wycombe,C,19.85,64.63
+44156,Wyre and Preston North,C,31,72
+24723,Wyre Forest,C,5.19,66.35
+41613,Wythenshawe and Sale East,Lab,18.59,50.99
+25153,Yeovil,LD,22.81,69.44
+24864,Ynys Mon,Lab,7,69
+24833,York Central,Lab,13.88,62.05
+24834,York Outer,C,6.92,71.1
+24851,East Yorkshire,C,26.31,63.79

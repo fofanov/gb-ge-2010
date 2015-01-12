@@ -1,0 +1,28 @@
+<div class="container-fluid" ng-controller="MapCtrl"  ng-init="initMap()">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Select Visualisation">
+                <label class="btn btn-default" ng-model="visualisationModel" btn-radio="'majority'">Visualise Majorities</label>
+                <label class="btn btn-default" ng-model="visualisationModel" btn-radio="'turnout'">Visualise Turnout</label>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-9">
+            <!-- The div below holds the map -->
+            <div id="map"></div>
+        </div>
+        <div class="col-md-3">
+            <div ng-show="constituency" class="panel panel-default">
+                <div class="panel-heading"><h4>{{constituency.NAME}}</h4></div>
+            <table class="table">
+                <tbody>
+                    <tr><td><b>Party</b></td><td>{{constituencyCodeToName(constituency.PARTY)}}</td></tr>
+                    <tr><td><b>Majority</b></td><td>{{constituency.MAJORITY}}%</td></tr>
+                    <tr><td><b>Turnout</b></td><td>{{constituency.TURNOUT}}%</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+  

@@ -1,1 +1,59 @@
-gb-ge-2010
+<!doctype html>
+<html lang="en" ng-app="westminsterApp">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>2010 Great Britain General Election Results</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+    <!-- Remember to insert your own API key in the URL below -->
+    <script type="text/javascript" src="http://openspace.ordnancesurvey.co.uk/osmapapi/openspace.js?key=02020AC47FF723EBE0530B6CA40A2D86"></script>  
+
+    <!-- AngularJS -->
+    <script type="text/javascript" src="https://code.angularjs.org/1.3.8/angular.min.js"></script>  
+    <script type="text/javascript" src="https://code.angularjs.org/1.3.8/angular-route.min.js"></script>  
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.0/ui-bootstrap-tpls.min.js"></script>  
+    <!-- App -->
+    <script type="text/javascript" src="app/js/app.js"></script>  
+    <script type="text/javascript" src="app/js/controllers.js"></script>  
+    
+    <!-- If you use OS OpenSpace Pro or OS OnDemand WMTS then use the relevant following URL instead: 
+    
+    OS OpenSpace Pro - <script type="text/javascript" src="http://osopenspacepro.ordnancesurvey.co.uk/osmapapi/openspace.js?key=INSERT_YOUR_API_KEY_HERE"></script>
+    
+    OS OnDemand WMTS - <script type="text/javascript" src="http://ondemandapi.ordnancesurvey.co.uk/osmapapi/openspace.js??key=INSERT_YOUR_API_KEY_HERE"></script>
+    
+    -->
+
+    <style>
+    html, body {height: 100%;}
+    #map {height: 500px; border:1px solid black;}
+    </style>
+
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/#/">2010 Great Britain General Election Results</a>
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/#/about">About</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+  <div ng-view></div>
+
+</body>
+</html>
