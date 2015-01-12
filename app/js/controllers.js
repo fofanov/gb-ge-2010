@@ -21,7 +21,7 @@ function getConstituency(name) {
     }
 }
 
-// Function to read the csv and when complete run proccess the constituencies 
+// Function to read the csv and when complete proccess the constituencies
 function readCSV() {
     // Function to process CSV file
     var processCSVData = function(dT) {
@@ -47,6 +47,9 @@ function readCSV() {
 
                 // Add the MAJ and TURN value to represent the strength of the 
                 // party majorities and voter turnout.  
+                // Here we try to capture the strenghth of the majority and
+                // turnout so that they can be displayed on the map in 10
+                // discrete bands.
                 row[majorityKey] = Math.ceil(row["MAJORITY"]  / 6.0);
                 row[turnoutKey] = Math.ceil((row["TURNOUT"] - 45.0)  / 4.0);
                 dT[store.getValue(item, primaryKey)] = row;
@@ -62,7 +65,7 @@ function readCSV() {
 }
 
 
-// Function to then create the boundary layer
+// Function to then create the constituency boundary layer
 function createBoundaryLayer(context) {
     var defaultStyle = new OpenLayers.Style({fillOpacity: 1, fillColor: "black", strokeColor: "black"});
     var selectStyle = new OpenLayers.Style({strokeColor: "white", graphicZIndex: 100, cursor: "pointer"});
@@ -137,7 +140,6 @@ westminsterControllers.controller('MapCtrl', function ($scope) {
         // Create new map
         var osMap = new OpenSpace.Map('map');
         
-        // Read the csv via function below
         var dataTable = readCSV();
 
         var context = function(feature) {
@@ -161,9 +163,8 @@ westminsterControllers.controller('MapCtrl', function ($scope) {
         // This function is called when a boundary is selected by hovering over it with the mouse
         var onFeatureHover = function(feature) {
         
-            // The feature (i.e. the boundary) is passed from the control that was defined above
-            // The name attribute of the feature is read into a variable and the text box is updated with this value
-            
+            // When the feature (i.e. the boundary) is selected, get the constituency data of from the dataTable
+            // and insert into the scope.
             var key = feature.attributes[primaryKey];
             var value = dataTable[key]; 
             $scope.$apply(function() {
@@ -174,8 +175,8 @@ westminsterControllers.controller('MapCtrl', function ($scope) {
 
         var offFeatureHover = function(feature) {
         
-            // The feature (i.e. the boundary) is passed from the control that was defined above
-            // The name attribute of the feature is read into a variable and the text box is updated with this value
+            // When move outside of the feature (boundary), remove the constituency data
+            // from the scope.
             $scope.$apply(function() {
                 $scope.constituency = null;
             });
